@@ -1,0 +1,15 @@
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+sanlun_robomaster\event_groups.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+sanlun_robomaster\event_groups.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+sanlun_robomaster\event_groups.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+sanlun_robomaster\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+sanlun_robomaster\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
